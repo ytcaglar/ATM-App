@@ -1,0 +1,4 @@
+Time : 06:51:32 | Process : Login | Hakan Deniz entered the banking system.
+Time : 06:51:37 | Process : Deposit | Hakan Deniz | Amount Deposit : 250 ₺ - Balance : 250 ₺
+Time : 06:51:41 | Process : Withdraw | Hakan Deniz | Amount Withdrawn : 250 ₺ - Balance : 0 ₺
+Time : 06:51:48 | Process : Logout | Hakan Deniz logged out of the bank system.

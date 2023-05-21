@@ -1,0 +1,45 @@
+C:\Users\tolun\OneDrive\Masaüstü\ATM\bin\Debug\net7.0\ATM.exe
+C:\Users\tolun\OneDrive\Masaüstü\ATM\bin\Debug\net7.0\ATM.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\ATM\bin\Debug\net7.0\ATM.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\ATM\bin\Debug\net7.0\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\ATM\bin\Debug\net7.0\ATM.pdb
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\refint\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.pdb
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ATM.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\ATM\obj\Debug\net7.0\ref\ATM.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\bin\Debug\net7.0\ATM.exe
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\bin\Debug\net7.0\ATM.deps.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\bin\Debug\net7.0\ATM.runtimeconfig.json
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\bin\Debug\net7.0\ATM.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\bin\Debug\net7.0\ATM.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.csproj.AssemblyReference.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.AssemblyInfoInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.AssemblyInfo.cs
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.csproj.CoreCompileInputs.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\refint\ATM.dll
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.pdb
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ATM.genruntimeconfig.cache
+G:\Diğer bilgisayarlar\Dizüstü Bilgisayarım\Ortak Alan\Çalıştığım Program\ATM\obj\Debug\net7.0\ref\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\bin\Debug\net7.0\ATM.exe
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\bin\Debug\net7.0\ATM.deps.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\bin\Debug\net7.0\ATM.runtimeconfig.json
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\bin\Debug\net7.0\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\bin\Debug\net7.0\ATM.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.csproj.AssemblyReference.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.AssemblyInfoInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.AssemblyInfo.cs
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\refint\ATM.dll
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.pdb
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ATM.genruntimeconfig.cache
+C:\Users\tolun\OneDrive\Masaüstü\Homework\Zor Seviye\ATM\obj\Debug\net7.0\ref\ATM.dll

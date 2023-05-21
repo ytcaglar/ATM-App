@@ -1,0 +1,4 @@
+Time : 06:38:42 | Process : Login | Tolunay Çağlar entered the banking system.
+Time : 06:38:59 | Process : Deposit | Tolunay Çağlar | Amount Deposit : 1500 ₺ - Balance : 1500 ₺
+Time : 06:39:10 | Process : Withdraw | Tolunay Çağlar | Amount Withdrawn : 250 ₺ - Balance : 1250 ₺
+Time : 06:39:29 | Process : Logout | Tolunay Çağlar logged out of the bank system.

@@ -1,0 +1,10 @@
+Time : 06:38:32 | Process : Registration | Tolunay Çağlar registered.
+Time : 06:38:42 | Process : Login | Tolunay Çağlar entered the banking system.
+Time : 06:38:59 | Process : Deposit | Tolunay Çağlar | Amount Deposit : 1500 ₺ - Balance : 1500 ₺
+Time : 06:39:10 | Process : Withdraw | Tolunay Çağlar | Amount Withdrawn : 250 ₺ - Balance : 1250 ₺
+Time : 06:39:29 | Process : Logout | Tolunay Çağlar logged out of the bank system.
+Time : 06:40:08 | Process : Registration | Hakan Deniz registered.
+Time : 06:51:32 | Process : Login | Hakan Deniz entered the banking system.
+Time : 06:51:37 | Process : Deposit | Hakan Deniz | Amount Deposit : 250 ₺ - Balance : 250 ₺
+Time : 06:51:41 | Process : Withdraw | Hakan Deniz | Amount Withdrawn : 250 ₺ - Balance : 0 ₺
+Time : 06:51:48 | Process : Logout | Hakan Deniz logged out of the bank system.
